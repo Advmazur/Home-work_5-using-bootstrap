@@ -1,0 +1,58 @@
+
+/*abaut all*/
+body .text {
+	  margin: 0px 20px;
+    position: absolute;
+	}
+
+div .jumbotron {
+	background-color: rgba(114, 105, 105, 0.92);
+}
+/*header*/
+.jumbotron nav {
+	margin: -20px 20px;
+}
+nav a {
+	  color: rgb(217, 203, 203);
+    margin: 20px;
+    margin-top: 10px;
+}
+nav a:hover {
+  color: white;
+  text-decoration: none
+}
+    
+
+  /*jumbotron*/
+  div .jumbotron h3 {
+  	text-align: center;
+    position: bottom;
+    margin-top: 120px;
+    color: white;
+  }  
+  div .jumbotron p{
+  	text-align: center;
+    font-size: 12px;
+    color: white;
+    margin: 10px 50px;
+
+  }
+ div .jumbotron p .btn{
+font-size: 10px;
+margin-top: 1px;
+}
+/*rov*/
+div .row{
+  display: inline-block;
+  text-align: center;
+}
+div .lead{
+  text-align: left;
+  font-size: 22px;
+}
+div .col-md-7 h1{
+text-align: left;
+}
+footer .pull-right {
+  font-size: 15px;
+}
